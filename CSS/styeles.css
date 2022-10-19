@@ -192,10 +192,10 @@ nav{
     #div-hover-cross{
         width: 18px;
         height: 18px;
-        background: #858585 0% 0% no-repeat padding-box;
     }
     .div-hover-parent a{
         text-decoration: none;
+        color: #858585;
     }
     .fa-xmark{
         height: 18px;
