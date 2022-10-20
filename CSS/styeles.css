@@ -177,7 +177,7 @@ nav{
         flex-wrap: nowrap;
         align-content: space-between;
         justify-content: space-between;
-        align-items: flex-end;
+        align-items: center;
     }   
     /* Heading Text Properties */
     .hover-header-content{
